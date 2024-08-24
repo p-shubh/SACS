@@ -1,1 +1,1 @@
-# SACS
+# SACS (system authorization control system)
